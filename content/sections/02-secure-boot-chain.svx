@@ -3,7 +3,7 @@
 
 The iOS **Secure Boot Chain** is a series of steps that ensures the integrity of the iOS operating system during the boot-up process. This makes it difficult for attackers to install malicious software or modify the device's operating system, enhancing the overall security of iOS devices.
 
-![](https://resources.infosecinstitute.com/wp-content/uploads/031815_2232_Understandi1.png)
+![](images/031815_2232_Understandi1.png)
 
 > The Secure Boot Chain consists of several components
 
