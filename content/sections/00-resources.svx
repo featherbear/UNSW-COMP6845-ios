@@ -29,7 +29,7 @@ Pre-generated report: [UNSW-COMP6845-ios-artex](https://featherbear.cc/UNSW-COMP
 > iLEAPP is a forensics tool to analyse the contents of an iOS device
 
 Pre-generated report: [UNSW-COMP6845-ios-ileapp](https://featherbear.cc/UNSW-COMP6845-ios-ileapp)
-~Download: [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)~  
+<s>Download: [abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)</s>
 
 ---
 
