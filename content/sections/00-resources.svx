@@ -6,7 +6,7 @@ Download: [[GitHub Mirror]](https://github.com/featherbear/UNSW-COMP6845-ios/raw
 
 ### Device Image
 
-Download: Link removed (you won't need it anyway) <!-- [98245c35524f9a81d660b1e0a04dbaa71c5b8993_Full-001.tar](https://drive.google.com/file/d/1HRiWonYXnno86irjkJccGwWQIYHpLTCc/view?usp=sharing) -->
+Download: Link removed (you won't need it anyway) <!-- [98245c35524f9a81d660b1e0a04dbaa71c5b8993_Full-001.tar](https://drive.google.com/file/d/1HRiWonYXnno86irjkJccGwWQIYHpLTCc/view?usp=sharing) -->  
 Type: File System Image  
 md5sum: `6b6065f02dcdec35e54b84740539deca`  
 sha1sum: `afd25f1ebba12eb48a6cc10ac1abce7b28065a48`  
